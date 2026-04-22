@@ -2,14 +2,14 @@
 
 void sigint_handler(int sig)
 {
-    printf("\nmyShell> ");
-    fflush(stdout);
+write(STDOUT_FILENO, "\nmyShell> ", 10);
 }
 
 void init_shell()
 {
-    signal(SIGINT, sigint_handler);
+signal(SIGINT, sigint_handler);
 }
+
 void print_prompt(){
-  printf("myShell> ");
+printf("myShell> ");
 }

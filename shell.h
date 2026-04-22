@@ -7,7 +7,9 @@
 #include <sys/wait.h>
 #include <fcntl.h>
 #include <signal.h>
+#ifndef MAX_INPUT
 #define MAX_INPUT 2048
+#endif
 #define MAX_ARGS 64
 #define MAX_HISTORY 100
 #define HISTORY_FILE ".myShell_history"
