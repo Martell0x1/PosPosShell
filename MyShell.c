@@ -11,7 +11,7 @@ int main(){
     if(!fgets(input , MAX_INPUT , stdin)){
       continue;
     }
-    add_history(input); 
+    add_history(input);
 
     execute_command(input);
   }

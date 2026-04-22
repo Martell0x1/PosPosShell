@@ -1,4 +1,4 @@
-#include "shell.h";
+#include "shell.h"
 
 int parse_args(char* input , char** args){
   int i = 0;

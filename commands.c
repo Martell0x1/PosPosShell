@@ -1,4 +1,4 @@
-#include "shell.h";
+#include "shell.h"
 
 int handle_commands(int arg_count,char** args){
   printf("%s\n","Using Custom Commands");
