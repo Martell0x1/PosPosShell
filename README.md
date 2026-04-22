@@ -29,7 +29,7 @@ make debug
 ## Team Contributions
 <div>
 	<li>Member 1: Marwan Zein (Martell0x1) </li>
-	<li>Member 2: </li>
+	<li>Member 2: Loubid Emad Alboghdady (Loubid)</li>
 	<li>Member 3: </li>
 	<li>Member 4: </li>
 	<li>Member 5: </li>
