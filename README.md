@@ -27,9 +27,14 @@ make debug
 ./myShell
 
 ## Team Contributions
-
-Member 1:
-Member 2:
-Member 3:
-Member 4:
-Member 5:
+<div>
+	<li>Member 1: </li>
+	<li>Member 2: </li>
+	<li>Member 3: </li>
+	<li>Member 4: </li>
+	<li>Member 5: </li>
+	<li>Member 6: </li>
+	<li>Member 7: </li>
+	<li>Member 8: </li>
+	<li>Member 9: </li>	
+</div>
