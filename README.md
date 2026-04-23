@@ -35,6 +35,6 @@ make debug
 	<li>Member 5: Ahmed Amir </li>
 	<li>Member 6: Youssef Sameh (YoussefSameh2004) </li>
 	<li>Member 7: Fares El Den Mohamed (EGFaris)</li>
-	<li>Member 8: </li>
-	<li>Member 9: </li>	
+	<li>Member 8:youssef abdelnaby(MO8AWMA)</li>
+	<li>Member 9:YOUSSEF GALAL(youssefgalal47) </li>	
 </div>
