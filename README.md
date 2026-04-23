@@ -31,9 +31,9 @@ make debug
 	<li>Member 1: Marwan Zein (Martell0x1) </li>
 	<li>Member 2: Loubid Emad Alboghdady (Loubid)</li>
 	<li>Member 3: Mahmoud Reda Mahmoud (MahmoudReda2910) </li>
-	<li>Member 4: </li>
-	<li>Member 5: </li>
-	<li>Member 6: </li>
+	<li>Member 4: Ahmed Elhadary </li>
+	<li>Member 5: Ahmed Amir </li>
+	<li>Member 6: Youssef Sameh </li>
 	<li>Member 7: </li>
 	<li>Member 8: </li>
 	<li>Member 9: </li>	
