@@ -33,8 +33,8 @@ make debug
 	<li>Member 3: Mahmoud Reda Mahmoud (MahmoudReda2910) </li>
 	<li>Member 4: Ahmed Elhadary </li>
 	<li>Member 5: Ahmed Amir </li>
-	<li>Member 6: Youssef Sameh </li>
-	<li>Member 7: </li>
+	<li>Member 6: Youssef Sameh (YoussefSameh2004) </li>
+	<li>Member 7: Fares El Den Mohamed (EGFaris)</li>
 	<li>Member 8: </li>
 	<li>Member 9: </li>	
 </div>
